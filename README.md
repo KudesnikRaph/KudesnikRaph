@@ -2,7 +2,7 @@
 ## 📖I study at *Hexlet College* and plan to become a successful programmer
 ____
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic&duration=3000&pause=1000&color=05A927&center=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&vCenter=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=I+am+learning+JavaScript;Dream+to+become+GameDevelopment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=14AB59&center=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&vCenter=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&width=435&height=60&lines=I+am+learning+JavaScript;Dream+to+become+GameDevelopment)](https://git.io/typing-svg)
 
 **Progress on pet-project :** 
  - [ ] [Pixel Tanks](https://github.com/KudesnikRaf/Game-Of-Pixel-Tanks)
