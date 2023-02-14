@@ -2,9 +2,9 @@
 ## 📖I study at *Hexlet College* and plan to become a successful programmer
 ____
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic&weight=500&size=15&duration=3000&color=05A927&center=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&vCenter=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=I+am+learning+JavaScript;Dream+to+become+GameDevelopment)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nanum+Gothic&duration=3000&pause=1000&color=05A927&center=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&vCenter=%D0%BB%D0%BE%D0%B6%D0%BD%D1%8B%D0%B9&multiline=true&repeat=%D0%B8%D1%81%D1%82%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9&width=435&lines=I+am+learning+JavaScript;Dream+to+become+GameDevelopment)](https://git.io/typing-svg)
 
- **Progress on pet-project :** 
+**Progress on pet-project :** 
  - [ ] [Pixel Tanks](https://github.com/KudesnikRaf/Game-Of-Pixel-Tanks)
 
  [![logo.png](https://im.wampi.ru/2023/02/14/logo.png)](https://wampi.ru/image/RSDeHgQ, 'Game logotype') 
@@ -25,7 +25,9 @@ ___
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/raph3dev)
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/danyakolezz13/)
 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KudesnikRaf&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KudesnikRaf&repo=Game-Of-Pixel-Tanks&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
