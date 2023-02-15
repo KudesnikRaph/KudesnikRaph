@@ -19,7 +19,7 @@ ____
 ___
 
 ### Сontact Me
-+ Gmail: danya.koless13@gmail.com
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](danya.koless13@gmail.com)
 ### Follow Me
 [![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/danyakolezz)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=27A0D9)](https://t.me/raph3dev)
@@ -32,3 +32,5 @@ ___
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=KudesnikRaf&repo=Game-Of-Pixel-Tanks&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+___
+[![GitHub followers](https://img.shields.io/github/followers/KudesnikRaf.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
