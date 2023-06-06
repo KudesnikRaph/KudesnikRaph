@@ -17,6 +17,6 @@ ____
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KudesnikRaf&count_private=true&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 ___
-[![GitHub followers](https://img.shields.io/github/followers/KudesnikRaf.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
+
 
 
