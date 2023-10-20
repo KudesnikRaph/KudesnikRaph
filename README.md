@@ -1,4 +1,4 @@
-# HI! 💣 My name is Danya
+# HI! 🎃 My name is Danya
 ## 📖I study at *Hexlet College* and plan to become a successful programmer
 ____
  ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
