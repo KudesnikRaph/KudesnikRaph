@@ -15,7 +15,7 @@ ____
 [![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=B4068E)](https://www.instagram.com/danyakolezz13/)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KudesnikRaf&show_icons=true&theme=tokyonight)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KudesnikRaf&show_icons=true&theme=ocean_dark)
 ___
 
 
