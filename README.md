@@ -6,9 +6,6 @@ ____
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node-dot-js&logoColor=white)](https://nodejs.org/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/KudesnikRaph) 
 
-
-### 🔥Сontact Me
-[![Outlook](https://img.shields.io/badge/-Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kolesnik.js@outlook.com)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KudesnikRaph&show_icons=true&theme=ocean_dark)
 ___
 
