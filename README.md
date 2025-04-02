@@ -9,8 +9,6 @@ ____
 
 ### 🔥Сontact Me
 [![Outlook](https://img.shields.io/badge/-Outlook-000000?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:kolesnik.js@outlook.com)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=4F7DB3)](https://vk.com/danyakolezz)
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=KudesnikRaph&show_icons=true&theme=ocean_dark)
 ___
 
